@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.j_tech2020.twa",
-        "sha256_cert_fingerprints": ["BE:18:D3:1C:48:47:59:AD:64:9E:FA:8B:F0:E0:BB:78:E3:C4:57:71:45:46:1E:62:78:BD:CC:71:A0:CF:E9:FC"]
-      }
-    }]
