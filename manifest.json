@@ -1,6 +1,7 @@
 {
   "name": "Bible Quiz Mobile App",
   "short_name": "BibleQuiz",
+  "description": "An interactive Bible quiz app featuring multi-language options to test and build your scriptural knowledge.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#121212",
@@ -8,13 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "static/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "static/icon-512.png",
+      "src": "static/logo.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
