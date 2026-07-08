@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.biblequiz.pwa",
-    "sha256_cert_fingerprints": ["95:EE:FA:8A:9F:37:A5:C7:9C:E3:09:3F:D9:82:AE:16:09:F0:5D:66:15:4D:2F:AE:C7:6B:B1:89:91:CA:37:D7"]
+    "sha256_cert_fingerprints": ["61:41:17:6B:50:F3:0D:38:21:42:79:CA:E2:3C:2C:38:D3:2D:17:E6:ED:A3:65:F4:45:8D:7F:18:C1:7D:E9:B9"]
   }
 }]
