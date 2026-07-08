@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "biblequiz.pwa",
-        "sha256_cert_fingerprints": ["95:EE:FA:8A:9F:37:A5:C7:9C:E3:09:3F:D9:82:AE:16:09:F0:5D:66:15:4D:2F:AE:C7:6B:B1:89:91:CA:37:D7"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.biblequiz.pwa",
+    "sha256_cert_fingerprints": ["95:EE:FA:8A:9F:37:A5:C7:9C:E3:09:3F:D9:82:AE:16:09:F0:5D:66:15:4D:2F:AE:C7:6B:B1:89:91:CA:37:D7"]
+  }
+}]
