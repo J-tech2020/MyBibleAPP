@@ -1,24 +1,29 @@
 {
+  "packageId": "com.biblequiz.pwa",
+  "host": "j-tech2020.github.io",
   "name": "Bible Quiz",
-  "short_name": "Bible Quiz",
-  "description": "An interactive Bible quiz app featuring multi-language options to test and build your scriptural knowledge.",
-  "start_url": "index.html",
+  "launcherName": "Bible Quiz",
   "display": "standalone",
-  "background_color": "#121212",
-  "theme_color": "#121212",
-  "orientation": "portrait",
-  "related_applications": [
-    {
-      "platform": "play",
-      "id": "com.biblequiz.pwa"
-    }
-  ],
-  "icons": [
-    {
-      "src": "static/logo.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
-    }
-  ]
+  "themeColor": "#000000",
+  "navigationColor": "#000000",
+  "backgroundColor": "#000000",
+  "enableNotifications": false,
+  "startUrl": "/MyBibleAPP/",
+  "scope": "/MyBibleAPP/",
+  "iconUrl": "https://j-tech2020.github.io/MyBibleAPP/logo.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://j-tech2020.github.io/MyBibleAPP/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  }
 }
